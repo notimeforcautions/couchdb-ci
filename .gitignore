@@ -2,6 +2,7 @@
 *~
 *.swp
 *.tar.*
+!couch*.tar.*
 couch
 js
 bin/extra
