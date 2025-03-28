@@ -3,6 +3,7 @@
 *.swp
 *.tar.*
 !couch*.tar.*
+!php-*.gz
 couch
 js
 bin/extra
